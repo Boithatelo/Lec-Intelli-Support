@@ -1,8 +1,4 @@
-package com.example.demo14;
-
-import javafx.beans.property.*;
-import java.util.List;
-
+setshoana
 public class Location {
     private final StringProperty id = new SimpleStringProperty();
     private final StringProperty name = new SimpleStringProperty();
